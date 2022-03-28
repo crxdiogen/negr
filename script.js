@@ -1,1 +1,2 @@
-console.log("xyu")
+console.log("xyu");
+let a = 0;
